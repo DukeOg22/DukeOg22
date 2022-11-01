@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DukeOg22
 - 👀 I’m interested in becoming a software engineer and hopefully one day work for Google
 - 🌱 I’m currently learning Mathematical Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me dukeoriginal6@gmail.com
 
 <!---
